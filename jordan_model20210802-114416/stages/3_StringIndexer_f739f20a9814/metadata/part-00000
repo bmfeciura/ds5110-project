@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1627919058883,"sparkVersion":"3.0.1","uid":"StringIndexer_f739f20a9814","paramMap":{"inputCol":"subreddit_id","outputCol":"sr_id_num"},"defaultParamMap":{"handleInvalid":"error","stringOrderType":"frequencyDesc","outputCol":"StringIndexer_f739f20a9814__output"}}
