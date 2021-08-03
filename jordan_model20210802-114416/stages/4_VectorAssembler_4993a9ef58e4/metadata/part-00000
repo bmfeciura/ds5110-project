@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1627919059197,"sparkVersion":"3.0.1","uid":"VectorAssembler_4993a9ef58e4","paramMap":{"outputCol":"features","inputCols":["ups","gilded","score_hidden","downs","score","controversiality","word2vec"]},"defaultParamMap":{"handleInvalid":"error","outputCol":"VectorAssembler_4993a9ef58e4__output"}}
